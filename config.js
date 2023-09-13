@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['966557787001', 'ɢᴏᴊᴏ', true],
-  ['18189625303', 'BOT', true], 
+  ['14084264469', 'BOT', true], 
   [''] 
 ] //Number of owners
 
@@ -51,8 +51,8 @@ global.botname = '𝐁𝐎𝐓'
 global.premium = 'true'
 global.packname = '𝐁𝐎𝐓' 
 global.author = 'صلي ؏ النبي' 
-global.igfg = 'Follow on Instagram\nhttps://instagram.com/mohamedmostafa4769?igshid=ZGUzMzM3NWJiOQ==\n' 
-global.dygp = 'https://chat.whatsapp.com/JcWLIylfbI5I0wazsJ7xEB'
+global.igfg = 'Follow on Instagram\nhttps://instagram.com/pb.pe?igshid=ZGUzMzM3NWJiOQ==\n' 
+global.dygp = 'https://chat.whatsapp.com/E6C7leSSZhYJb0vYg54IeN'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = 'https://youtube.com/@Mo_yt74'
 global.fgpyp = 'https://youtube.com/@Mo_yt74'
